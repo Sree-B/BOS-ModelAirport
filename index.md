@@ -42,5 +42,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ### It will be filled with fun things to do during your layover!
 
 <!-- weather widget start -->
-<a target="_blank" href="https://www.booked.net/weather/boston-60"><img src="https://w.bookcdn.com/weather/picture/32_60_0_1_34495e_250_2c3e50_ffffff_ffffff_1_2071c9_ffffff_0_6.png?scode=124&domid=w209&anc_id=79793"  alt="booked.net"/></a>
+
+<div align: right> <a target="_blank" href="https://www.booked.net/weather/boston-60"><img src="https://w.bookcdn.com/weather/picture/32_60_0_1_34495e_250_2c3e50_ffffff_ffffff_1_2071c9_ffffff_0_6.png?scode=124&domid=w209&anc_id=79793"  alt="booked.net"/></a> </div>
 <!-- weather widget end -->
+
